@@ -1,0 +1,14 @@
+# ninja log v5
+1363	1509	1703716329887156480	Project_fund2	f5eff180663fe78f
+2422	2606	7255776553914657	Project_fund2.exe	80c2bfcee88e4f6e
+6	1936	7255776547262216	CMakeFiles/Project_fund2.dir/Apartment.cpp.obj	7f47e344b6eaf84e
+34	1830	7255776546220291	CMakeFiles/Project_fund2.dir/BankAccount.cpp.obj	59952531ec0353f6
+41	1992	7255776547825842	CMakeFiles/Project_fund2.dir/Account.cpp.obj	4eaa5f48cda5f7b
+25	2121	7255776549121561	CMakeFiles/Project_fund2.dir/User.cpp.obj	2be7877d2dde83a7
+16	2422	7255776552122364	CMakeFiles/Project_fund2.dir/main.cpp.obj	4b80bb6593e9194f
+19	1122	7255777448774501	CMakeFiles/Project_fund2.dir/BankAccount.cpp.obj	c2be218e21a7432
+12	1125	7255777448804328	CMakeFiles/Project_fund2.dir/Apartment.cpp.obj	1f782dc63c86fd30
+33	1128	7255777448824340	CMakeFiles/Project_fund2.dir/Account.cpp.obj	71b785a3ce803fdf
+27	1210	7255777449662769	CMakeFiles/Project_fund2.dir/User.cpp.obj	4515d72d504efb67
+5	1563	7255777453182570	CMakeFiles/Project_fund2.dir/main.cpp.obj	598ffc54e18267a9
+1563	1862	7255777456142468	Project_fund2.exe	80c2bfcee88e4f6e
